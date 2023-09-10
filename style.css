@@ -25,3 +25,11 @@ div {
   border-radius: 20px;
   padding: 20px;
 }
+
+a {
+  margin-top: 2px;
+  background-color: grey;
+  padding: 5px;
+  border-radius: 4px;
+  color: white;
+}
