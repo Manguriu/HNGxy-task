@@ -1,0 +1,20 @@
+h1,
+p {
+  text-decoration: 40px;
+  font-family: "Courier New", Courier, monospace;
+}
+img {
+  border-radius: 60px;
+  margin: 20px;
+  border: solid;
+}
+
+a {
+  text-decoration: none;
+}
+div {
+  width: fit-content;
+  background-color: darkgrey;
+  border-radius: 20px;
+  padding: 20px;
+}
