@@ -1,12 +1,19 @@
+* {
+  box-sizing: border-box;
+  margin: 10px;
+}
+
 h1,
 p {
   text-decoration: 40px;
   font-family: "Courier New", Courier, monospace;
 }
 img {
-  border-radius: 60px;
-  margin: 20px;
+  border-radius: 50px;
+  margin: 10px;
   border: solid;
+  width: 100px;
+  height: 100px;
 }
 
 a {

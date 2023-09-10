@@ -9,7 +9,7 @@ function weekUpdate() {
     "Monday",
   ];
   const currentDate = new Date();
-  const weekDay = weekDays[currentDate.getUTCDay()];
+  let weekDay = weekDays[currentDate.getUTCDay()];
   document.querySelector('[data-testid="currentDayOfTheWeek"]').textContent =
     weekDay;
 }
